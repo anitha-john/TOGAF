@@ -1,0 +1,45 @@
+Business Drivers  -  My view
+	Head office function - controls and manages the business strategy , capital expenditure
+	ERP HR - common HR across all functions
+	customer - common across all businesses
+	Organisation Unit
+	Roles
+	
+	Business driver
+	Profitability
+		purchasing in bulk - economies of scale
+		timely reporting
+		growing integrated customer base cross selling n up-seling
+	
+	
+	Stategies
+		HO manags performance of entire business
+		issues targets
+		macro manage individual operations
+		controls business strategy
+		controls capital expenditure
+		controls information systems
+		
+		
+
+Internal Technology Drivers
+	Driver: Common IT infra accross all businesses -  to 1.  improve logistics 
+												 2. financial reporting
+	
+
+External techonology drivers
+	no funds to replace existing IT infra
+	no package available to acheive upto date reporting accross all business
+
+
+non technology drivers
+	Funds to improvise the IT business systems
+	Information protection in line with legislation
+	Archtecture investment limited to $100,000
+	solution investment limited to $500,000
+	must comply with act & regulations
+	
+
+		
+	
+	
